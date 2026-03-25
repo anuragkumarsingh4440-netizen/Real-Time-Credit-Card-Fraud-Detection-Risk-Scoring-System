@@ -39,7 +39,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="main-title">AI Fraud Detection System</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">AIML Based Fraud Detection System</div>', unsafe_allow_html=True)
 
 # =========================================================
 # LOAD MODEL
